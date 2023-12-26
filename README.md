@@ -5,9 +5,8 @@ Features Implemented:
 •	ConstraintLayout <br>
 •	SharedPrferences <br>
 •	Notification <br>
-
-•	BroadcastReciever 
-•	Telephony Api 
-•	Database 
-•	Sensor 
-•	Firebase 
+•	BroadcastReciever <br>
+•	Telephony Api <br>
+•	Database <br>
+•	Sensor <br>
+•	Firebase <br>
