@@ -11,7 +11,12 @@ Features Implemented:<br><br>
 •	Sensor <br>
 •	Firebase <br>
 <img src="https://github.com/vikyathshettyy/FriendFLow/assets/133582265/c3dc294e-653d-44fd-a793-2bb60e03acc0" width="200" height="400"/>
-![signup](https://github.com/vikyathshettyy/FriendFLow/assets/133582265/c3dc294e-653d-44fd-a793-2bb60e03acc0)
+<img src="https://github.com/vikyathshettyy/FriendFLow/assets/133582265/91446da3-08c8-4d71-8f37-0c8b1804d9cf" width="200" height="400"/>
+<img src="https://github.com/vikyathshettyy/FriendFLow/assets/133582265/c3dc294e-653d-44fd-a793-2bb60e03acc0" width="200" height="400"/>
+<img src="https://github.com/vikyathshettyy/FriendFLow/assets/133582265/c3dc294e-653d-44fd-a793-2bb60e03acc0" width="200" height="400"/>
+<img src="https://github.com/vikyathshettyy/FriendFLow/assets/133582265/c3dc294e-653d-44fd-a793-2bb60e03acc0" width="200" height="400"/>
+<img src="https://github.com/vikyathshettyy/FriendFLow/assets/133582265/c3dc294e-653d-44fd-a793-2bb60e03acc0" width="200" height="400"/>
+
 ![welcome_page](https://github.com/vikyathshettyy/FriendFLow/assets/133582265/91446da3-08c8-4d71-8f37-0c8b1804d9cf)
 ![registered_users](https://github.com/vikyathshettyy/FriendFLow/assets/133582265/5a1a1247-5a28-4986-b787-b588f8908661)
 ![profile](https://github.com/vikyathshettyy/FriendFLow/assets/133582265/6754b632-1dd9-461e-8c29-fc89e2292ad3)
