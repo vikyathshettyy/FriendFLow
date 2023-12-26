@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634559494267",
+    "project_id": "friendflow-dbb1e",
+    "storage_bucket": "friendflow-dbb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634559494267:android:f0f86d0dd0593d23a74ade",
+        "android_client_info": {
+          "package_name": "com.bvr.FriendFlow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQtVrFjLzxiOVvaCcYp0aYXk1At42tLfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
