@@ -10,3 +10,4 @@ Features Implemented:<br><br>
 •	Database <br>
 •	Sensor <br>
 •	Firebase <br>
+https://github.com/vikyathshettyy/FriendFLow/blob/master/imgs/welcome_page.png
